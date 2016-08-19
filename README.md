@@ -1,5 +1,5 @@
 # Dynamic State Dropdown
-It's usually the details that sets websites apart. [Solodev](https://www.solodev.com/) shows how to add a dynamic state dropdown to your forms using [selectize.js](http://selectize.github.io/selectize.js/) so that your users can quickly find their dropdown selection.
+It's usually the details that set websites apart. [Solodev](https://www.solodev.com/) shows how to add a dynamic state dropdown to your forms using [selectize.js](http://selectize.github.io/selectize.js/) so that your users can quickly find their dropdown selection.
 
 ## Tutorial
 
@@ -63,7 +63,7 @@ window.onload=function(){
 }
 ```
 
-Additionally call these resourcs:
+Additionally call these resources:
 ```
 <script type="text/javascript" src="assets/selectize.js"></script>
 <script type="text/javascript" src="assets/index.js"></script>
